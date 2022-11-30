@@ -1,3 +1,11 @@
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 kewl
 
 This is a trial file we are updating to see if the changes are being updated or not
+=======
+not kewl
+>>>>>>> Stashed changes
+=======
+not kewl
+>>>>>>> Stashed changes
